@@ -1,4 +1,4 @@
-# network-protocols
+# network-programming
 
 This is an implementation of two specific protocols defined according to the problem details given for an assignment in Computer Networks.
 
